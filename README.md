@@ -6,7 +6,7 @@ In a previous lab, you created a schematic from three different circuts.  In thi
 
 ## Background Practice
 
-Before constructing a circuit, read the [Section 3.3](https://roboticsengineeringcourse.github.io/electrical-concepts.html#circuits) of our online text.  Be sure to read over the page from the All About Circuits textbook and complete at least questions 1-5 on the worksheet.  That should give you plenty of background along with what you learned in [Sectiop 3.1](https://roboticsengineeringcourse.github.io/electrical-concepts.html#schematics) about schematics.
+Before constructing a circuit, read the [Section 3.3](https://roboticsengineeringcourse.github.io/electrical-concepts.html#circuits) of our online text.  Be sure to read over the page from the All About Circuits textbook and complete at least questions 1-5 on the worksheet.  That should give you plenty of background along with what you learned in [Section 3.1](https://roboticsengineeringcourse.github.io/electrical-concepts.html#schematics) about schematics.
 
 ## Circuit Practice
 
